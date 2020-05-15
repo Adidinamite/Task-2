@@ -1,0 +1,35 @@
+.mainTitle{
+    font-size: 55px;
+}
+.darkBlue{
+    color : rgb(20, 20, 78);
+}
+.font{
+    font-family: 'Montserrat', sans-serif;
+    display: flex;
+    justify-content: center;
+}
+.start{
+    font-size:22px;
+    margin-top: -25px;
+}
+.container{
+    font-size: 30px;
+    padding: 20px 0 20px;
+    color: white;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+    border-radius: 10px;
+}
+.sign-up{
+    background-color: #e95358;
+}
+.teacherAcces{
+    background-color: #4891da;
+    margin-top: 25px;
+}
+.text{
+    color : rgb(77, 60, 60);
+    font-size: 19px;
+}
